@@ -25,7 +25,7 @@ namespace MedSCAN
          * correct patient/medication. The professor will be able to add, remove, 
          * edit, and view patients and medication information from the database. 
          * The professor will also be able to print unique barcodes for the 
-         * different patients and medications. 
+         * different patients and medications. <END>
          */ //-----------------------------------------------------------------------
 
         /// <summary>
